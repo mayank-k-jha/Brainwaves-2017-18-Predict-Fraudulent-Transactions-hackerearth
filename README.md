@@ -1,2 +1,2 @@
 # Brainwaves-2017-18-Predict-Fraudulent-Transactions-hackerearth
-A classification problem where we have to predict the given transaction is fraudulent or not.
+In this competition, we are provided with a transaction data where there were two problems, A classification problem where we have to predict whether a transaction is fradulent or not, and A regression problem where we have to predict the annual return of a company using the various parameter related to various trading. This repository contains the solution for classification problem where we have to predict the given transaction is fraudulent or not.
